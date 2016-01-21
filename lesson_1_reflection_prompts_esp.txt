@@ -1,0 +1,37 @@
+¿Cómo fue la visualización de un diff entre dos versiones de un archivo de ayuda que se ve el error
+que se introdujo?
+
+    Bueno en mi caso estoy familiarizado con las lineas de comando de linux, 
+    me parecio relativamente algo sencillo con un toque de funcion basica.
+
+¿Cómo podría tener fácil acceso a toda la historia de un archivo que hacer una más
+programador eficiente en el largo plazo?
+
+   Creo que los diferentes archivos deberia manejarse de acuerdo de las fechas de modificaciones y versiones.
+
+¿Qué cree usted que son los pros y los contras de elegir manualmente cuando para crear un
+comprometerse, como lo hace en Git, vs tener versiones guardan automáticamente, al igual que Google
+docs hace?
+
+    Yo pienso que el dejarnos guardar la versiones que nos parecen escenciales es mucho mejor 
+    que cualquiera que guarde archivos volviendoles montañas de versiones innescesarias.
+
+¿Por qué crees que algunos sistemas de control de versiones, como Git, permite guardar múltiples
+archivos en un solo commit, mientras que otros, como Google Docs, tratan cada archivo por separado?
+
+    Yo pienso que la finalidad de guardar varios archivos ,en todos los casos se tienen multiples archivos 
+	para un determinado proyecto, centrando la funcionalidad de git en el desarrollo de software.
+
+¿Cómo se puede utilizar el registro de comandos git y git diff para ver el historial de los archivos?
+
+    El comando git log me muestra todo el historial y si quisiera saber cuantas lineas o que 
+especificamente cambio de un commit a otro lo puedo obtener con el comando git diff id1 id2
+
+¿Cómo podría usar el control de versiones que se sienta más confiado para hacer cambios que
+podría romper algo?
+
+    Poder restaurando el proyecto en cada commit hecho.
+
+Ahora que ha configurado el espacio de trabajo, ¿qué es lo que quieres intentar usar Git para?
+
+    Codigo Android, me gustaria probar en varias librerias que siempre me causaron curiosidad.

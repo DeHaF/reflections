@@ -1,0 +1,31 @@
+¿Que sucede cuando se inicializa un repository? ¿Porque necesita hacerlo?
+Lo podemos hacer con el comando git init, nos crea un archivo oculto llamado
+.git en el directorio; luego git status para crear la raiz. Creo k necesita inicializar porque es importante
+para llevar el historial.
+
+¿Cómo es el área de ensayo distinto del directorio de trabajo y el repositorio? ¿Qué valor crees que ofrece?
+El area de ensayo es un intermedio para aceptar archivos al directorio de trabajo, mientras 
+que el repositoria viene a ser todo los historiales con los que se trabajo.
+Cada uno es fundamental y cumple su funcion.
+
+¿Cómo se puede utilizar el area de ensayo para asegurarse de que tiene un commit por cambio logico?
+Utilizando el comando git diff --stayed nos muestra el estado de nuestro area de ensayo con respecto al 
+repositoria si hay algun cambio lo podriamos considerar como cambio logico.
+
+¿Cuáles son algunas situaciones en las ramas serían útiles para mantener su historial organizado? ¿Cómo ayudaría ramas?
+Cuando quiera sacar una version nueva sin afectar la vercion base como pruebas experimentales.
+Cuando quiera diversificar mi proyecto.Las ramas me ayudan a mantener la secuencia ordenada
+de mi proyecto.
+
+¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+Yo pienso que este tipo de visualizacion en forma de arbol, llegan a hacerte comprender de manera 
+didactica como se estructura tus diferentes versiones de tu proyecto. Puedes dar un vistazo a vuelo
+de pajaro por toda tu proyecto.
+
+¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en el diagrama de la manera que lo hacemos?
+Es una sola rama combinado todos los comis de ambas ramas.
+
+¿Cuáles son los pros y los contras de Git de fusión automática vs. siempre haciendo fusiones de forma manual?
+Fusión Automatica: Puede estar abierto a cometer errores en la ambiguedades, la mayor parte del codigo que no se toca se copia
+automaticamente.
+Fusión Manual: Puede estar abierto a errores humanos, se requiere mas cantidad de tiempo para encontrar un error.
