@@ -1,0 +1,2 @@
+¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
+Cuando quiero compartirlo con los demas integrantes de mi equipo o con el publico.
